@@ -12,6 +12,9 @@
 
 ## **How does it work?**
 
+![image](https://user-images.githubusercontent.com/95744177/147475085-3158b2b7-f8da-4ef7-92c9-5de42cdde9a6.png)
+
+
 - The program makes a request to the site to search for authors with sorting "From new to old".
 - Further, the program makes requests in the authors' profiles for the presence of sold works (this means that these authors were given invites and most likely they did not spend them, since they are relatively recent on the platform, thanks to sorting)
 - As soon as the program realized which of the authors might have invites, it pulls their social networks from their profiles and saves all this in Excel tables.
