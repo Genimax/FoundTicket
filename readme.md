@@ -1,6 +1,8 @@
 # **FoundTicket**
 ## *How about knowing your targets?*
 
+![teaser](https://user-images.githubusercontent.com/95744177/147474822-5346bec7-5a8d-4735-8f78-a94df07af338.gif)
+
 "FoundTicket" is a program for those who wish to enter the foundation.app platform, but do not know where to look for artists with invites. Your goal is to reach the right people, the goal of this program is to give you their contacts.
 
 - Enter the number of artists to scan for invites.
