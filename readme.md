@@ -28,5 +28,3 @@
 - Check "Links" folder in the main folder.
 - **Start writing to your targets and get your invite.**
 
-**Free Software, Hell Yeah!**
-
